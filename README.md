@@ -1,5 +1,3 @@
-A continuación, te proporciono un archivo `README.md` detallado y atractivo que explica el propósito, funcionamiento y características de la aplicación **Visual Guide Generator**. Este archivo está diseñado para ser claro, profesional y fácil de entender tanto para desarrolladores como para usuarios finales.
-
 ---
 
 # 🎨 Visual Guide Generator
