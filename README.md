@@ -1,5 +1,3 @@
----
-
 # 🎨 Visual Guide Generator
 
 ## Descripción
