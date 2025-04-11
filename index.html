@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visual Guide Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Visual Guide Generator</h1>
+        <p>Crea guías visuales a partir de texto.</p>
+    </header>
+
+    <main>
+        <section id="input-section">
+            <h2>Ingresa tu texto</h2>
+            <textarea id="text-input" placeholder="Escribe aquí tu descripción..."></textarea>
+            <button id="generate-button">Generar Guía Visual</button>
+        </section>
+
+        <section id="output-section" class="hidden">
+            <h2>Tu Guía Visual</h2>
+            <div id="visual-guide-container"></div>
+            <button id="export-button">Exportar</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Visual Guide Generator. Todos los derechos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
